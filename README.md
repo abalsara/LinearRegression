@@ -9,5 +9,5 @@ program.
 - My Graphing class handles the visual graphing aspect of the program,
 using DrawingPanel
 - My Point class keeps track of a single Point, composed of x and y coordinates.
-- The DrawingPanel classes, written by my previous professor Stuart Reges, form
+- The DrawingPanel classes, written by my previous professor Stuart Reges, forms
 a simple java drawing window program
